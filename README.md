@@ -42,14 +42,6 @@ The dataset used in this project (`Resale Flat Price.csv`) contains historical r
 - **Neural Network Model**: The neural network model architecture and training process are detailed in `Neural_Network.ipynb`.
 - **Random Forest and XGBoost Models**: Feature importance and hyperparameter tuning for Random Forest and XGBoost models are documented in `RF_XGB.ipynb`.
 
-## Authors
-
-- **Low Jow Loon Jovian** - A0218112W
-- **Sugimoto Shoujin** - A0265946M
-- **Chang Xinzhou Leslie** - A0233010H
-- **Cheng Zhibin, Nicholas** - A0217486W
-- **Mai Youlian** - A0222998M
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
