@@ -1,5 +1,5 @@
 
-# Project Submission
+# NeuralNest
 
 This repository contains files for a project focused on predicting resale flat prices using machine learning models. The main components of the project include a Neural Network, Random Forest, and XGBoost models.
 
